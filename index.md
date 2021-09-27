@@ -1,5 +1,7 @@
 # Introduction
 
+![My Wallpaper Image](Random.jpg)
+
 ## Programming Experience
 
 **Major:** Math&CS <br />
